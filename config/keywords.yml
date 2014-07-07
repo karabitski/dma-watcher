@@ -1,0 +1,232 @@
+mappings:
+  USA: us
+  UK: us
+  Ireland: us
+  Australia: us
+  Germany: de
+  Austria: de
+  Switzerland: de
+  Sweden: se
+  Norway: se
+  Denmark: dk
+  Finland: fi
+us:
+  - Careers
+  - Jobs
+  - Current openings
+  - openings
+  - work for us
+  - join us
+  - current positions
+  - career opportunities
+  - open positions
+  - about us:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - contact:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - contact us:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - Company:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - Jobs:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+de:
+  - Careers
+  - Jobs
+  - Current openings
+  - openings
+  - work for us
+  - join us
+  - current positions
+  - open positions
+  - career opportunities
+  - Unternehmen
+  - Karriere
+  - Stellenangebote
+  - Aktuelle Stellenangebote
+  - Offene Stellen
+  - über uns:
+    - Stellenangebote
+    - Aktuelle Stellenangebote
+    - Offene Stellen
+    - careers
+    - jobs
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - about us:
+    - Stellenangebote
+    - Aktuelle Stellenangebote
+    - Offene Stellen
+    - careers
+    - jobs
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - contact:
+    - Stellenangebote
+    - Aktuelle Stellenangebote
+    - Offene Stellen
+    - careers
+    - jobs
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - contact us:
+    - Stellenangebote
+    - Aktuelle Stellenangebote
+    - Offene Stellen
+    - careers
+    - jobs
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - Company:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - Jobs:
+    - Stellenangebote
+    - Aktuelle Stellenangebote
+    - Offene Stellen
+    - careers
+    - jobs
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+se:
+  - jobb
+  - karriere
+  - Ledige stillinger
+  - Jobbsøk
+  - Søk
+  - Hitta job
+  - IT-jobb
+  - sök jobb
+dk:
+  - Careers
+  - Job
+  - Current openings
+  - openings
+  - work for us
+  - join us
+  - current positions
+  - career opportunities
+  - open positions
+  - Ledige stillinger
+  - Arbejd for os
+  - åbne positioner
+  - about us:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - contact:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - contact us:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - Company:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - Jobs:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - åbne positioner:
+    - stillingsopslag
+    - nuværende åbninger
+    - job
+    - karriere
+fi:
+  - Careers
+  - Jobs
+  - Current openings
+  - openings
+  - work for us
+  - join us
+  - current positions
+  - career opportunities
+  - open positions
+  - Avoimet työpaikat
+  - Työnhakijoille
+  - Työskentele kanssamme
+  - about us:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - contact:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - contact us:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - Company:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - Jobs:
+    - careers
+    - jobs
+    - current openings
+    - current positions
+    - open positions
+  - Yhteystiedot:
+    - avoimet työpaikat
+    - työ
+    - avoimet työpaikat
